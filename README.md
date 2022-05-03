@@ -1,19 +1,14 @@
-# symfony-template
-Implements xxx in symfony
+# presta-sitemap-bundle
+Implements PrestaSitemapBundle in symfony
 
-| Branch     | xxx Version | Symfony Version | PHP Version     |
-|------------|-------------|-----------------|-----------------|
-| [4.4.x][2] | `x.x`       | `4.4.x`         | `7.4` or higher |
+| Branch   | PrestaSitemapBundle Version | Symfony Version | PHP Version     |
+|----------|-----------------------------|-----------------|-----------------|
+| [2.x][1] | `2.x`                       | `4.4.x`         | `7.4` or higher |
 
 
-Read [xxx Docs](xxx)
-
-### Resources  
-- [xxx](xxx)
-
+Read [PrestaSitemapBundle Docs](https://github.com/prestaconcept/PrestaSitemapBundle/tree/v2.5.0/Resources/doc)
 
 ### License
-The code is licensed under the [MIT License](https://github.com/habibun/symfony-template/blob/master/LICENSE)
+The code is licensed under the [MIT License](https://github.com/habibun/presta-sitemap-bundle/blob/master/LICENSE)
 
-[1]: https://github.com/habibun/symfony-template/tree/5.4.x
-[2]: https://github.com/habibun/symfony-template/tree/4.4.x
+[1]: https://github.com/habibun/presta-sitemap-bundle/tree/2.x
